@@ -1,0 +1,37 @@
+_repo: The-Telenizer_32574
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Vidmer
+    aliases:
+    - Vidmer, Rene
+    - Vidmer, René
+    gutenberg_agent_id: '34106'
+    url: http://www.gutenberg.org/2009/agents/34106
+covers:
+- cover_type: archival
+  image_path: 32574-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Thompson, Don
+    alias: Thompson, Donald Arthur
+    birthdate: 1935
+    deathdate: 1994
+    gutenberg_agent_id: '34538'
+    url: http://www.gutenberg.org/2009/agents/34538
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32574'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Parapsychology -- Fiction'
+- !lcsh 'Science fiction'
+title: The Telenizer
+url: http://www.gutenberg.org/ebooks/32574
